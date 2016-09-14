@@ -1,6 +1,9 @@
 <?php
 /*
- * The file integrates HelpSpot's Live Lookup with 37Signals Highrise CRM tool
+ * The file provides a mapping for iSymphony's CRM integration with the Highrise CRM tool
+ * Based on the high rise mapper for helpspot
+ * see: https://github.com/UserScape/HelpSpot-Integrations/blob/master/api_livelookup/37signals_highrise/livelookup_highrise.php
+ * 
  * PHP Versions required: 5+
  * PHP Modules required: curl
  */
