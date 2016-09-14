@@ -6,7 +6,7 @@
  */
 /* MODIFY THESE FOR YOUR HIGHRISE ACCOUNT */
 $highrise_url = 'https://i9technologies.highrisehq.com'; //Your Highrise URL, something like http://userscape.highrisehq.com
-$api_token = 'b9ed71b998a8b31f99f5c083726f07d6'; //You can find this in your Highrise account in the "my info" screen
+$api_token = 'pasteapitokenhere'; //You can find this in your Highrise account in the "my info" screen
 /****************** NO MODIFICATIONS REQUIRED BELOW HERE ******************/
 /* GET HIGHRISE XML */
 //Highrise currently doesn't have a contact search, so we need to pull in all the contacts and search ourselves
